@@ -1,11 +1,11 @@
 # Aprendendo Linguagem Markdown
-***
+---
 
 Podemos_*misturar*_ configurações
-***
+---
 
 Lista numerada:
-***
+---
 
 1. Teste
 2. Teste2
@@ -14,7 +14,7 @@ Lista numerada:
    Teste4
 
    Lista demarcada:
-   ***
+   ---
 
    * Teste
    * Teste
@@ -22,7 +22,7 @@ Lista numerada:
       * Teste
 
       Lsita de tarefas:
-      ***
+      ---
 
 [x] Criar a página principal
 [x] Criar a página da loja
